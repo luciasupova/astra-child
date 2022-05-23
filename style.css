@@ -7,3 +7,13 @@ Template:       astra
 Version:        1.0.0
 Text Domain:    astra-child
 */
+
+/*FONTS*/
+@font-face {
+    font-family: QuicheDisplay;
+    src: url(QuicheDisplay-Regular.ttf);
+  }
+  
+.loveckysperk-header {
+    font-family: QuicheDisplay;
+}
