@@ -14,6 +14,8 @@ Text Domain:    astra-child
     src: url(QuicheDisplay-Regular.ttf);
   }
   
-.loveckysperk-header {
+h1 .entry-content {
+    color: #000000;
     font-family: QuicheDisplay;
+    font-weight: 500;
 }
