@@ -1,4 +1,4 @@
-/*
+/*!
 Theme Name:     Astra Child
 Theme URI:      https://wpastra.com/
 Description:    Child theme by Group 17 - Lucia, Nicol, Hana
@@ -9,13 +9,50 @@ Text Domain:    astra-child
 */
 
 /*FONTS*/
-@font-face {
-    font-family: QuicheDisplay;
-    src: url(QuicheDisplay-Regular.ttf);
+  @font-face {
+    font-family: QuicheSans;
+    src: url(Quiche-Sans.ttf);
+  }
+
+  @font-face {
+    font-family: QuicheSans-Medium;
+    src: url(Quiche-Sans-Medium.ttf);
+  }
+
+  @font-face {
+    font-family: PoppinsLight;
+    src: url(Poppins-Light.ttf);
   }
   
-h1 .entry-content {
-    color: #000000;
-    font-family: QuicheDisplay;
-    font-weight: 500;
+
+body  {
+    font-family: PoppinsLight !important;
 }
+
+
+h1 {
+    font-family: QuicheSans !important;
+}
+
+h2 {
+    font-family: QuicheSans-Medium !important;
+}
+
+.elementor-widget-heading h1.elementor-heading-title {
+    font-size: 50px;
+
+}
+
+h6 {
+    font-family: PoppinsLight !important;
+}
+
+h5 span {
+    font-family: QuicheSans !important;
+    text-transform: initial;
+}
+
+.elementor-button span {
+    font-family: PoppinsLight !important;
+}
+
