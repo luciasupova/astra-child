@@ -29,6 +29,9 @@ body  {
     font-family: PoppinsLight !important;
 }
 
+.elementor-widget-heading h1.elementor-heading-title {
+  font-size: 50px;
+}
 
 h1 {
     font-family: QuicheSans !important;
@@ -40,7 +43,6 @@ h2 {
 
 .elementor-widget-heading h1.elementor-heading-title {
     font-size: 50px;
-
 }
 
 h6 {
