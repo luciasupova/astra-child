@@ -9,52 +9,46 @@ Text Domain:    astra-child
 */
 
 /*FONTS*/
-  @font-face {
-    font-family: QuicheSans;
-    src: url(Quiche-Sans.ttf);
-  }
+@font-face {
+  font-family: QuicheSans;
+  src: url(Quiche-Sans.ttf);
+}
 
-  @font-face {
-    font-family: QuicheSans-Medium;
-    src: url(Quiche-Sans-Medium.ttf);
-  }
+@font-face {
+  font-family: QuicheSans-Medium;
+  src: url(Quiche-Sans-Medium.ttf);
+}
 
-  @font-face {
-    font-family: PoppinsLight;
-    src: url(Poppins-Light.ttf);
-  }
-  
+@font-face {
+  font-family: PoppinsLight;
+  src: url(Poppins-Light.ttf);
+}
 
-body  {
-    font-family: PoppinsLight !important;
+h1 {
+  font-family: QuicheSans !important;
 }
 
 .elementor-widget-heading h1.elementor-heading-title {
   font-size: 50px;
 }
 
-h1 {
-    font-family: QuicheSans !important;
-}
-
 h2 {
-    font-family: QuicheSans-Medium !important;
+  font-family: QuicheSans-Medium !important;
 }
 
-.elementor-widget-heading h1.elementor-heading-title {
-    font-size: 50px;
+body {
+  font-family: PoppinsLight !important;
 }
 
 h6 {
-    font-family: PoppinsLight !important;
+  font-family: PoppinsLight !important;
 }
 
 h5 span {
-    font-family: QuicheSans !important;
-    text-transform: initial;
+  font-family: QuicheSans !important;
+  text-transform: initial;
 }
 
 .elementor-button span {
-    font-family: PoppinsLight !important;
+  font-family: PoppinsLight !important;
 }
-
