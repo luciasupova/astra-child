@@ -53,6 +53,9 @@ h5 span {
   font-family: PoppinsLight !important;
 }
 
+.ast-footer-social-wrap {
+  display: none;
+}
 
 /* header 
 .ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-menu, .ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .ast-mobile-header-wrap .main-header-bar {
