@@ -52,3 +52,72 @@ h5 span {
 .elementor-button span {
   font-family: PoppinsLight !important;
 }
+
+
+/* header 
+.ast-theme-transparent-header .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-menu, .ast-theme-transparent-header.ast-header-break-point .main-header-bar-wrap .main-header-bar, .ast-theme-transparent-header.ast-header-break-point .ast-mobile-header-wrap .main-header-bar {
+  background-color: rgba(255, 255, 255, 0.384);
+}
+*/
+
+/*changes of menu fonts 
+.ast-builder-menu-1 .menu-item:hover > .menu-link, .ast-builder-menu-1 .inline-on-mobile .menu-item:hover > .ast-menu-toggle {
+color: #39514F;}
+*/
+
+/* hover over the menu fonts
+.ast-theme-transparent-header .ast-builder-menu .main-header-menu, .ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-link, .ast-theme-transparent-header [CLASS*="ast-builder-menu-"] .main-header-menu .menu-item > .menu-link, .ast-theme-transparent-header .ast-masthead-custom-menu-items, .ast-theme-transparent-header .ast-masthead-custom-menu-items a, .ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item > .ast-menu-toggle, .ast-theme-transparent-header .ast-builder-menu .main-header-menu .menu-item > .ast-menu-toggle, .ast-theme-transparent-header .ast-above-header-navigation a, .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation a, .ast-header-break-point.ast-theme-transparent-header .ast-above-header-navigation > ul.ast-above-header-menu > .menu-item-has-children:not(.current-menu-item) > .ast-menu-toggle, .ast-theme-transparent-header .ast-below-header-menu, .ast-theme-transparent-header .ast-below-header-menu a, .ast-header-break-point.ast-theme-transparent-header .ast-below-header-menu a, .ast-header-break-point.ast-theme-transparent-header .ast-below-header-menu, .ast-theme-transparent-header .main-header-menu .menu-link {
+  color: rgb(10, 10, 10);
+}
+*/
+
+/* subcategories menu change
+.sub-menu {
+  width: 240px;
+  background: #D0C2B4 !important;
+  color: red;
+  opacity: 0.8;
+  left: -999em;
+  position: absolute;
+  top: 100%;
+  z-index: 99999;
+}
+*/
+
+
+/* hover darker over the subcategories
+.menu-item-1667:hover {
+  background-color: #b9ab9e;
+  ;
+}
+
+.menu-item-1661:hover{
+  background-color: #b9ab9e;
+  ;
+}
+
+.menu-item-1664:hover{
+  background-color: #b9ab9e;
+  ;
+}
+
+.menu-item-1662:hover{
+  background-color: #b9ab9e;
+  ;
+}
+
+.menu-item-1666:hover{
+  background-color: #b9ab9e;
+  ;
+}
+
+.menu-item-1665:hover{
+  background-color: #b9ab9e;
+  ;
+}
+
+.menu-item-1663:hover{
+  background-color: #b9ab9e;
+  ;
+}
+*/

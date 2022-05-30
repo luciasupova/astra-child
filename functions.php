@@ -12,5 +12,3 @@ add_action('wp_enqueue_scripts',
         wp_enqueue_style( 'elementor-post-1025-css', get_stylesheet_uri(), NULL, filemtime( get_stylesheet_directory() . '/style.css' ) );
     ;
     } );
-
-
